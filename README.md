@@ -66,7 +66,7 @@ PASS= ‘’nodemailer auth
 5. Start the backend server:
 
     ```sh
-     npm run dev
+     npm start
     ```
 
 ### Frontend Setup
