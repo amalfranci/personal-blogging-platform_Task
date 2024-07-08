@@ -51,7 +51,7 @@ Make sure you have the following installed on your machine:
 
 4. Create a `.env` file in the `backend` directory and add the following environment variables:
 
-    ```plaintext
+  
 PORT=4000
 KEY="your code"
 DB_URL= ‘your mongo_url’
@@ -61,7 +61,7 @@ SERVICE = gmail
 EMAIL=’nodemailer
 
 PASS= ‘’nodemailer auth
-    ```
+  
 
 5. Start the backend server:
 
